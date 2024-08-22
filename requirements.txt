@@ -6,4 +6,4 @@ tensorboard
 matplotlib
 streamlit
 scikeras
-ntlk ==  3.9.1.
+ntlk
